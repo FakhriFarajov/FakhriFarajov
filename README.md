@@ -1,3 +1,9 @@
+Software Engineer passionate about building reliable, practical, and scalable software.
+
+🎓 Educated at STEP IT Academy — Baku, Azerbaijan
+💻 Software Engineering & Development
+🚀 Always learning, building, and improving
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fakhrifarajov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fakhri Farajov) 
